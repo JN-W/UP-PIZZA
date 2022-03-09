@@ -42,4 +42,9 @@ RECIPES = {
         'price': 11,
         'sauce': 'tomato'
     },
+        'mapizz': {
+        'ingredients': {'mozzarella': 4, 'basil': 2, 'onion': 5, 'mushroom': 2},
+        'price': 11,
+        'sauce': 'tomato'
+    },
 }
